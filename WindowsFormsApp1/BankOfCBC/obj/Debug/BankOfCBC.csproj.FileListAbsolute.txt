@@ -1,0 +1,5 @@
+G:\练习\WindowsFormsApp1\BankOfCBC\bin\Debug\BankOfCBC.dll
+G:\练习\WindowsFormsApp1\BankOfCBC\bin\Debug\BankOfCBC.pdb
+G:\练习\WindowsFormsApp1\BankOfCBC\obj\Debug\BankOfCBC.dll
+G:\练习\WindowsFormsApp1\BankOfCBC\obj\Debug\BankOfCBC.pdb
+G:\练习\WindowsFormsApp1\BankOfCBC\obj\Debug\BankOfCBC.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+G:\练习\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\练习\WindowsFormsApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+G:\练习\WindowsFormsApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+G:\练习\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+G:\练习\WindowsFormsApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,13 @@
+ 
+Date 
+ErrorClass£ºLog4Demo.Form1 property: [(null)] - 
+Error Description£ºErrorMessage
+ 
+ 
+Date£º2020-08-12 09:42:41,625 
+ErrorClass£ºLog4Demo.Form1 : [(null)] - 
+Error £ºErrorMessage
+ 
+ 
+Date£º2020-08-12 09:45:48,385 - Error £ºErrorMessage
+ 

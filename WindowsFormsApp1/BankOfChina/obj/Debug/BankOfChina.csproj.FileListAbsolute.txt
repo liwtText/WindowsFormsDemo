@@ -1,0 +1,8 @@
+G:\练习\WindowsFormsApp1\BankOfChina\bin\Debug\BankOfChina.dll
+G:\练习\WindowsFormsApp1\BankOfChina\bin\Debug\BankOfChina.pdb
+G:\练习\WindowsFormsApp1\BankOfChina\bin\Debug\BankInterface.dll
+G:\练习\WindowsFormsApp1\BankOfChina\bin\Debug\BankInterface.pdb
+G:\练习\WindowsFormsApp1\BankOfChina\obj\Debug\BankOfChina.csprojAssemblyReference.cache
+G:\练习\WindowsFormsApp1\BankOfChina\obj\Debug\BankOfChina.csproj.CopyComplete
+G:\练习\WindowsFormsApp1\BankOfChina\obj\Debug\BankOfChina.dll
+G:\练习\WindowsFormsApp1\BankOfChina\obj\Debug\BankOfChina.pdb

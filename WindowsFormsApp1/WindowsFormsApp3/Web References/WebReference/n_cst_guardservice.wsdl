@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempurl.org" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempurl.org" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempurl.org">
+      <s:element name="uf_check_carnumber">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_number" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_check_carnumberResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="uf_check_carnumberResult" type="s:short" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_receive_carno">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="as_key" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="as_number" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_receive_carnoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="uf_receive_carnoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_teetime">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ad_date" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_teetimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="uf_get_teetimeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_golferlist">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ad_date" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_golferlistResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="uf_get_golferlistResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_msgtxt">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="al_id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="uf_get_msgtxtResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="uf_get_msgtxtResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="short" type="s:short" />
+      <s:element name="string" nillable="true" type="s:string" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="uf_check_carnumberSoapIn">
+    <wsdl:part name="parameters" element="tns:uf_check_carnumber" />
+  </wsdl:message>
+  <wsdl:message name="uf_check_carnumberSoapOut">
+    <wsdl:part name="parameters" element="tns:uf_check_carnumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoSoapIn">
+    <wsdl:part name="parameters" element="tns:uf_receive_carno" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoSoapOut">
+    <wsdl:part name="parameters" element="tns:uf_receive_carnoResponse" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeSoapIn">
+    <wsdl:part name="parameters" element="tns:uf_get_teetime" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeSoapOut">
+    <wsdl:part name="parameters" element="tns:uf_get_teetimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistSoapIn">
+    <wsdl:part name="parameters" element="tns:uf_get_golferlist" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistSoapOut">
+    <wsdl:part name="parameters" element="tns:uf_get_golferlistResponse" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtSoapIn">
+    <wsdl:part name="parameters" element="tns:uf_get_msgtxt" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtSoapOut">
+    <wsdl:part name="parameters" element="tns:uf_get_msgtxtResponse" />
+  </wsdl:message>
+  <wsdl:message name="uf_check_carnumberHttpGetIn">
+    <wsdl:part name="as_number" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_check_carnumberHttpGetOut">
+    <wsdl:part name="Body" element="tns:short" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoHttpGetIn">
+    <wsdl:part name="as_key" type="s:string" />
+    <wsdl:part name="as_name" type="s:string" />
+    <wsdl:part name="as_number" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeHttpGetIn">
+    <wsdl:part name="ad_date" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistHttpGetIn">
+    <wsdl:part name="ad_date" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtHttpGetIn">
+    <wsdl:part name="al_id" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_check_carnumberHttpPostIn">
+    <wsdl:part name="as_number" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_check_carnumberHttpPostOut">
+    <wsdl:part name="Body" element="tns:short" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoHttpPostIn">
+    <wsdl:part name="as_key" type="s:string" />
+    <wsdl:part name="as_name" type="s:string" />
+    <wsdl:part name="as_number" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_receive_carnoHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeHttpPostIn">
+    <wsdl:part name="ad_date" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_teetimeHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistHttpPostIn">
+    <wsdl:part name="ad_date" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_golferlistHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtHttpPostIn">
+    <wsdl:part name="al_id" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="uf_get_msgtxtHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:portType name="n_cst_guardserviceSoap">
+    <wsdl:operation name="uf_check_carnumber">
+      <wsdl:input message="tns:uf_check_carnumberSoapIn" />
+      <wsdl:output message="tns:uf_check_carnumberSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <wsdl:input message="tns:uf_receive_carnoSoapIn" />
+      <wsdl:output message="tns:uf_receive_carnoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <wsdl:input message="tns:uf_get_teetimeSoapIn" />
+      <wsdl:output message="tns:uf_get_teetimeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <wsdl:input message="tns:uf_get_golferlistSoapIn" />
+      <wsdl:output message="tns:uf_get_golferlistSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <wsdl:input message="tns:uf_get_msgtxtSoapIn" />
+      <wsdl:output message="tns:uf_get_msgtxtSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="n_cst_guardserviceHttpGet">
+    <wsdl:operation name="uf_check_carnumber">
+      <wsdl:input message="tns:uf_check_carnumberHttpGetIn" />
+      <wsdl:output message="tns:uf_check_carnumberHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <wsdl:input message="tns:uf_receive_carnoHttpGetIn" />
+      <wsdl:output message="tns:uf_receive_carnoHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <wsdl:input message="tns:uf_get_teetimeHttpGetIn" />
+      <wsdl:output message="tns:uf_get_teetimeHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <wsdl:input message="tns:uf_get_golferlistHttpGetIn" />
+      <wsdl:output message="tns:uf_get_golferlistHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <wsdl:input message="tns:uf_get_msgtxtHttpGetIn" />
+      <wsdl:output message="tns:uf_get_msgtxtHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="n_cst_guardserviceHttpPost">
+    <wsdl:operation name="uf_check_carnumber">
+      <wsdl:input message="tns:uf_check_carnumberHttpPostIn" />
+      <wsdl:output message="tns:uf_check_carnumberHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <wsdl:input message="tns:uf_receive_carnoHttpPostIn" />
+      <wsdl:output message="tns:uf_receive_carnoHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <wsdl:input message="tns:uf_get_teetimeHttpPostIn" />
+      <wsdl:output message="tns:uf_get_teetimeHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <wsdl:input message="tns:uf_get_golferlistHttpPostIn" />
+      <wsdl:output message="tns:uf_get_golferlistHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <wsdl:input message="tns:uf_get_msgtxtHttpPostIn" />
+      <wsdl:output message="tns:uf_get_msgtxtHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="n_cst_guardserviceSoap" type="tns:n_cst_guardserviceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="uf_check_carnumber">
+      <soap:operation soapAction="http://tempurl.org/uf_check_carnumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <soap:operation soapAction="http://tempurl.org/uf_receive_carno" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <soap:operation soapAction="http://tempurl.org/uf_get_teetime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <soap:operation soapAction="http://tempurl.org/uf_get_golferlist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <soap:operation soapAction="http://tempurl.org/uf_get_msgtxt" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="n_cst_guardserviceSoap12" type="tns:n_cst_guardserviceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="uf_check_carnumber">
+      <soap12:operation soapAction="http://tempurl.org/uf_check_carnumber" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <soap12:operation soapAction="http://tempurl.org/uf_receive_carno" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <soap12:operation soapAction="http://tempurl.org/uf_get_teetime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <soap12:operation soapAction="http://tempurl.org/uf_get_golferlist" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <soap12:operation soapAction="http://tempurl.org/uf_get_msgtxt" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="n_cst_guardserviceHttpGet" type="tns:n_cst_guardserviceHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="uf_check_carnumber">
+      <http:operation location="/uf_check_carnumber" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <http:operation location="/uf_receive_carno" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <http:operation location="/uf_get_teetime" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <http:operation location="/uf_get_golferlist" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <http:operation location="/uf_get_msgtxt" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="n_cst_guardserviceHttpPost" type="tns:n_cst_guardserviceHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="uf_check_carnumber">
+      <http:operation location="/uf_check_carnumber" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_receive_carno">
+      <http:operation location="/uf_receive_carno" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_teetime">
+      <http:operation location="/uf_get_teetime" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_golferlist">
+      <http:operation location="/uf_get_golferlist" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="uf_get_msgtxt">
+      <http:operation location="/uf_get_msgtxt" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="n_cst_guardservice">
+    <wsdl:port name="n_cst_guardserviceSoap" binding="tns:n_cst_guardserviceSoap">
+      <soap:address location="http://114.242.183.228:900/gx_guardservice/n_cst_guardservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="n_cst_guardserviceSoap12" binding="tns:n_cst_guardserviceSoap12">
+      <soap12:address location="http://114.242.183.228:900/gx_guardservice/n_cst_guardservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="n_cst_guardserviceHttpGet" binding="tns:n_cst_guardserviceHttpGet">
+      <http:address location="http://114.242.183.228:900/gx_guardservice/n_cst_guardservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="n_cst_guardserviceHttpPost" binding="tns:n_cst_guardserviceHttpPost">
+      <http:address location="http://114.242.183.228:900/gx_guardservice/n_cst_guardservice.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

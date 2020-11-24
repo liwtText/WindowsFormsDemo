@@ -1,0 +1,4 @@
+G:\练习\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+G:\练习\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+G:\练习\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+G:\练习\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

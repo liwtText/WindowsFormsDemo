@@ -1,0 +1,11 @@
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.exe
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.deps.json
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.runtimeconfig.json
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.runtimeconfig.dev.json
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.dll
+E:\练习\WindowsFormsApp1\AttributeTest\bin\Debug\netcoreapp3.1\AttributeTest.pdb
+E:\练习\WindowsFormsApp1\AttributeTest\obj\Debug\netcoreapp3.1\AttributeTest.AssemblyInfoInputs.cache
+E:\练习\WindowsFormsApp1\AttributeTest\obj\Debug\netcoreapp3.1\AttributeTest.AssemblyInfo.cs
+E:\练习\WindowsFormsApp1\AttributeTest\obj\Debug\netcoreapp3.1\AttributeTest.dll
+E:\练习\WindowsFormsApp1\AttributeTest\obj\Debug\netcoreapp3.1\AttributeTest.pdb
+E:\练习\WindowsFormsApp1\AttributeTest\obj\Debug\netcoreapp3.1\AttributeTest.csprojAssemblyReference.cache

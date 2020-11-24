@@ -1,0 +1,9 @@
+G:\练习\WindowsFormsApp1\Text\bin\Debug\Text.exe
+G:\练习\WindowsFormsApp1\Text\bin\Debug\Text.pdb
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.Form1.resources
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.Properties.Resources.resources
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.csproj.GenerateResource.cache
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.exe
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.pdb
+G:\练习\WindowsFormsApp1\Text\obj\Debug\Text.csprojAssemblyReference.cache

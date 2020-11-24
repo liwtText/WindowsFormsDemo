@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZooKeeperDotNet/3.3.4.8": {
+        "type": "package",
+        "compile": {
+          "lib/net40/ZooKeeperNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/ZooKeeperNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooKeeperDotNet/3.3.4.8": {
+      "sha512": "0fR2LMzrfPnr0C/sJ4WlyAeJD04kkl7bEpKyM3B2ee9Q50U33jJ4T8McvIOgbTkTG7eCEBJ0AvbBGGKq+2FWEA==",
+      "type": "package",
+      "path": "zookeeperdotnet/3.3.4.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/ZooKeeperNet.dll",
+        "zookeeperdotnet.3.3.4.8.nupkg.sha512",
+        "zookeeperdotnet.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ZooKeeperDotNet >= 3.3.4.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\练习\\WindowsFormsApp1\\kafkaDemo\\kafkaDemo.csproj",
+      "projectName": "kafkaDemo",
+      "projectPath": "E:\\练习\\WindowsFormsApp1\\kafkaDemo\\kafkaDemo.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\练习\\WindowsFormsApp1\\kafkaDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ZooKeeperDotNet": {
+            "target": "Package",
+            "version": "[3.3.4.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“ZooKeeperDotNet 3.3.4.8”。此包可能与项目不完全兼容。",
+      "libraryId": "ZooKeeperDotNet",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

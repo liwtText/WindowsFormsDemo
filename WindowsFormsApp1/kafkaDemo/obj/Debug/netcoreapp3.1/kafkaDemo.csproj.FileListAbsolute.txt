@@ -1,0 +1,2 @@
+E:\练习\WindowsFormsApp1\kafkaDemo\obj\Debug\netcoreapp3.1\kafkaDemo.AssemblyInfoInputs.cache
+E:\练习\WindowsFormsApp1\kafkaDemo\obj\Debug\netcoreapp3.1\kafkaDemo.AssemblyInfo.cs

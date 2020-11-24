@@ -1,0 +1,10 @@
+E:\练习\WindowsFormsApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+E:\练习\WindowsFormsApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+E:\练习\WindowsFormsApp1\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+E:\练习\WindowsFormsApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+E:\练习\WindowsFormsApp1\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb

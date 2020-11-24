@@ -1,0 +1,15 @@
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.exe
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.AssemblyInfoInputs.cache
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.AssemblyInfo.cs
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.deps.json
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.runtimeconfig.json
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.runtimeconfig.dev.json
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.dll
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\DemoMQ.pdb
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.dll
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.pdb
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\aliyun-net-sdk-core.dll
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\aliyun-net-sdk-ons.dll
+G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.csprojAssemblyReference.cache
+G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.csproj.CopyComplete

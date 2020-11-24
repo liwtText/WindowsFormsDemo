@@ -1,0 +1,11 @@
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.exe
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.deps.json
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.json
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.runtimeconfig.dev.json
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.dll
+E:\练习\WindowsFormsApp1\ConsoleApp11\bin\Debug\netcoreapp3.1\ConsoleApp11.pdb
+E:\练习\WindowsFormsApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.csprojAssemblyReference.cache
+E:\练习\WindowsFormsApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfoInputs.cache
+E:\练习\WindowsFormsApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.AssemblyInfo.cs
+E:\练习\WindowsFormsApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.dll
+E:\练习\WindowsFormsApp1\ConsoleApp11\obj\Debug\netcoreapp3.1\ConsoleApp11.pdb

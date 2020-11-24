@@ -1,0 +1,12 @@
+E:\练习\WindowsFormsApp1\Log4Demo\bin\Debug\Web.config
+E:\练习\WindowsFormsApp1\Log4Demo\bin\Debug\Log4Demo.exe
+E:\练习\WindowsFormsApp1\Log4Demo\bin\Debug\Log4Demo.pdb
+E:\练习\WindowsFormsApp1\Log4Demo\bin\Debug\log4net.dll
+E:\练习\WindowsFormsApp1\Log4Demo\bin\Debug\log4net.xml
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.Form1.resources
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.Properties.Resources.resources
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csproj.GenerateResource.cache
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csproj.CopyComplete
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.exe
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.pdb
+E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csprojAssemblyReference.cache

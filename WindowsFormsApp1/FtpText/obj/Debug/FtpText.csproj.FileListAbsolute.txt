@@ -1,0 +1,17 @@
+G:\练习\WindowsFormsApp1\FtpText\bin\Debug\FtpText.exe
+G:\练习\WindowsFormsApp1\FtpText\bin\Debug\FtpText.pdb
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.Form1.resources
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.Properties.Resources.resources
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.csproj.GenerateResource.cache
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.csproj.CoreCompileInputs.cache
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.exe
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.pdb
+G:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.csprojAssemblyReference.cache
+E:\练习\WindowsFormsApp1\FtpText\bin\Debug\FtpText.exe
+E:\练习\WindowsFormsApp1\FtpText\bin\Debug\FtpText.pdb
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.csprojAssemblyReference.cache
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.Form1.resources
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.Properties.Resources.resources
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.csproj.GenerateResource.cache
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.exe
+E:\练习\WindowsFormsApp1\FtpText\obj\Debug\FtpText.pdb

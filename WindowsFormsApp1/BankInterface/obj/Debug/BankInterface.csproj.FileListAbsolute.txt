@@ -1,0 +1,10 @@
+G:\练习\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.dll
+G:\练习\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.pdb
+G:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.dll
+G:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.pdb
+G:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.csprojAssemblyReference.cache
+E:\练习\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.dll
+E:\练习\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.pdb
+E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.csprojAssemblyReference.cache
+E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.dll
+E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.pdb
