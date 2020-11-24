@@ -6,3 +6,11 @@ G:\练习\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Propertie
 G:\练习\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
 G:\练习\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 G:\练习\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache

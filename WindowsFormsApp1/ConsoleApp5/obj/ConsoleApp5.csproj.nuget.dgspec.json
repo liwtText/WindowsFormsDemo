@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\练习\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj": {}
+    "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj": {}
   },
   "projects": {
-    "E:\\练习\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj": {
+    "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\练习\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectUniqueName": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj",
         "projectName": "ConsoleApp5",
-        "projectPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp5\\ConsoleApp5.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp5\\obj\\",
+        "outputPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\练习\\WindowsFormsApp1\\ConsoleApp10\\ConsoleApp10.csproj",
+      "projectUniqueName": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp10\\ConsoleApp10.csproj",
       "projectName": "ConsoleApp10",
-      "projectPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp10\\ConsoleApp10.csproj",
+      "projectPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp10\\ConsoleApp10.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp10\\obj\\",
+      "outputPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,3 +7,9 @@ G:\练习\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Propertie
 G:\练习\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
 G:\练习\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 G:\练习\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb

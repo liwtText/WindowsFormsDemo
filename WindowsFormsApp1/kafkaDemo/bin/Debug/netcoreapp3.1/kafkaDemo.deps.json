@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kafkaDemo/1.0.0": {
+        "dependencies": {
+          "ZooKeeperDotNet": "3.3.4.8"
+        },
+        "runtime": {
+          "kafkaDemo.dll": {}
+        }
+      },
+      "ZooKeeperDotNet/3.3.4.8": {
+        "runtime": {
+          "lib/net40/ZooKeeperNet.dll": {
+            "assemblyVersion": "3.3.4.8",
+            "fileVersion": "3.3.4.8"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kafkaDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooKeeperDotNet/3.3.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0fR2LMzrfPnr0C/sJ4WlyAeJD04kkl7bEpKyM3B2ee9Q50U33jJ4T8McvIOgbTkTG7eCEBJ0AvbBGGKq+2FWEA==",
+      "path": "zookeeperdotnet/3.3.4.8",
+      "hashPath": "zookeeperdotnet.3.3.4.8.nupkg.sha512"
+    }
+  }
+}

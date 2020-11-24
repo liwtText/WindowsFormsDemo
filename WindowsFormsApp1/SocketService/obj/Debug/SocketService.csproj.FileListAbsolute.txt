@@ -10,3 +10,12 @@ G:\练习\WindowsFormsApp1\SocketService\obj\Debug\SocketService.csproj.CopyComp
 G:\练习\WindowsFormsApp1\SocketService\obj\Debug\SocketService.exe
 G:\练习\WindowsFormsApp1\SocketService\obj\Debug\SocketService.pdb
 G:\练习\WindowsFormsApp1\SocketService\obj\Debug\SocketService.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\bin\Debug\SocketService.exe.config
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\bin\Debug\SocketService.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\bin\Debug\SocketService.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\SocketService\obj\Debug\SocketService.csprojAssemblyReference.cache

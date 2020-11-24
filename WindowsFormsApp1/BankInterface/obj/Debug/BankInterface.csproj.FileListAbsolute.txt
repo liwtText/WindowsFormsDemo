@@ -8,3 +8,8 @@ E:\练习\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.pdb
 E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.csprojAssemblyReference.cache
 E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.dll
 E:\练习\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\BankInterface\bin\Debug\BankInterface.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\BankInterface\obj\Debug\BankInterface.csprojAssemblyReference.cache

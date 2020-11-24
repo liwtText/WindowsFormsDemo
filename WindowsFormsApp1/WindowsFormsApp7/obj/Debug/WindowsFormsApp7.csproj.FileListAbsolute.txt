@@ -9,3 +9,14 @@ E:\练习\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\log4net.xml
 E:\练习\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
 E:\练习\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
 E:\练习\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\Config.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\log4net.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\bin\Debug\log4net.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

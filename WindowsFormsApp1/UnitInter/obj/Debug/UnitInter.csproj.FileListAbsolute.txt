@@ -29,3 +29,17 @@ G:\练习\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.csproj.CoreCompileInput
 G:\练习\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.csproj.CopyComplete
 G:\练习\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.dll
 G:\练习\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\UnitInter.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\UnitInter.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\BouncyCastle.Crypto.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Google.Protobuf.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\MySql.Data.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Newtonsoft.Json.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Renci.SshNet.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Google.Protobuf.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\MySql.Data.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Newtonsoft.Json.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\bin\Debug\Renci.SshNet.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\UnitInter\obj\Debug\UnitInter.pdb

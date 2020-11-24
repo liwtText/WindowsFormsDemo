@@ -10,3 +10,14 @@ E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csproj.CopyComplete
 E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.exe
 E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.pdb
 E:\练习\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csprojAssemblyReference.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\bin\Debug\Web.config
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\bin\Debug\Log4Demo.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\bin\Debug\Log4Demo.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\bin\Debug\log4net.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\bin\Debug\log4net.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.Properties.Resources.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Log4Demo\obj\Debug\Log4Demo.pdb

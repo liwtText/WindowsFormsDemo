@@ -13,3 +13,8 @@ G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\aliyun-net-sdk-ons.dll
 G:\练习\WindowsFormsApp1\DemoMQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.csprojAssemblyReference.cache
 G:\练习\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.csprojAssemblyReference.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.AssemblyInfoInputs.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.AssemblyInfo.cs
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\DemoMQ\obj\Debug\netcoreapp3.1\DemoMQ.pdb

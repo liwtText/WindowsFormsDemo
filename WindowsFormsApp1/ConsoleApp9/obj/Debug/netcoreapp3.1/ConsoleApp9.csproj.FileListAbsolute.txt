@@ -8,3 +8,14 @@ G:\练习\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.Assem
 G:\练习\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
 G:\练习\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
 G:\练习\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache

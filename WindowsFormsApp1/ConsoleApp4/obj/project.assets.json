@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\练习\\WindowsFormsApp1\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectUniqueName": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp4\\ConsoleApp4.csproj",
       "projectName": "ConsoleApp4",
-      "projectPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp4\\ConsoleApp4.csproj",
+      "projectPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp4\\ConsoleApp4.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\练习\\WindowsFormsApp1\\ConsoleApp4\\obj\\",
+      "outputPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\ConsoleApp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

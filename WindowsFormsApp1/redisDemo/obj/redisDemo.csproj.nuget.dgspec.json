@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\练习\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj": {}
+    "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj": {}
   },
   "projects": {
-    "E:\\练习\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj": {
+    "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\练习\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj",
+        "projectUniqueName": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj",
         "projectName": "redisDemo",
-        "projectPath": "E:\\练习\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj",
+        "projectPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\redisDemo\\redisDemo.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\练习\\WindowsFormsApp1\\redisDemo\\obj\\",
+        "outputPath": "E:\\GitTest\\C#Demo\\WindowsFormsDemo\\WindowsFormsApp1\\redisDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

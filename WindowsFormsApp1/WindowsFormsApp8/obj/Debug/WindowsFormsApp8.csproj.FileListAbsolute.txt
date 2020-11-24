@@ -7,3 +7,11 @@ G:\练习\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Propertie
 G:\练习\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
 G:\练习\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
 G:\练习\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

@@ -23,3 +23,14 @@ G:\练习\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.csproj.Copy
 G:\练习\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.exe
 G:\练习\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.pdb
 G:\练习\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.csprojAssemblyReference.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\WindowsService3.exe.config
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\WindowsService3.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\WindowsService3.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\HtmlAgilityPack.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\HtmlAgilityPack.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\bin\Debug\HtmlAgilityPack.xml
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.Form1.resources
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.csproj.GenerateResource.cache
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.csproj.CopyComplete
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.exe
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\WindowsService3\obj\Debug\WindowsService3.pdb

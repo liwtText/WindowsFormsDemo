@@ -1,0 +1,4 @@
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Send_Message\bin\Debug\Send_Message.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Send_Message\bin\Debug\Send_Message.pdb
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Send_Message\obj\Debug\Send_Message.dll
+E:\GitTest\C#Demo\WindowsFormsDemo\WindowsFormsApp1\Send_Message\obj\Debug\Send_Message.pdb
